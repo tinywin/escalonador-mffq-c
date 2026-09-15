@@ -41,6 +41,8 @@ The objective of this assignment is to simulate process management and CPU sched
  * Run the simulation:
    ./scheduler
 
+---
+
 📊 Output & Metrics
 The simulation executes a set of workload processes (navegador, compilador, backup, player, etc.) and outputs:
  * Execution Log: Step-by-step tracing of process arrivals, dispatches, quantum expirations/demotions, and completions.
