@@ -1,0 +1,9 @@
+# nome prioridade chegada burst
+navegador 0 0 6
+compilador 1 1 8
+backup 3 2 12
+player 2 3 5
+antivirus 1 6 7
+editor 0 10 4
+indexador 3 12 9
+terminal 2 15 3
